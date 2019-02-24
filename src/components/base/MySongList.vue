@@ -7,7 +7,7 @@
         </div>
         <div class="content">
           <p class="name">{{item.name}}</p>
-          <p class="desc">getDesc(item)</p>
+          <p class="desc">{{getDesc(item)}}</p>
         </div>
       </li>
     </ul>

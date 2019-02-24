@@ -534,9 +534,9 @@ export default {
         "transform"
       ] = `translate3d(${offsetWidth}px,0,0)`;
       this.$refs.lyricList.$el.style["webkitTransform-duration"] = `300ms`;
-      this.$refs.middleRef.$el.style.opacity = opacity;
-      this.$refs.middleRef.$el.style["webkitTransform-duration"] = `300ms`;
-      this.$refs.middleRef.$el.style["transform-duration"] = `300ms`;
+      this.$refs.middleRef.style.opacity = opacity;
+      this.$refs.middleRef.style["webkitTransform-duration"] = `300ms`;
+      this.$refs.middleRef.style["transform-duration"] = `300ms`;
     }
   },
   computed: {
