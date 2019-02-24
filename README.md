@@ -5,7 +5,7 @@
 基于vu2(2.5)+vuex+vue-router+vue-axios+better-scroll+scss+es6等开发一款音乐WebApp，UI界面参考了移动端QQ音乐、flex布局适配常见移动端
 
 预览效果：
-
+<img width="322" alt="wx20190224-173558 2x" src="https://user-images.githubusercontent.com/6395813/53297641-3642b980-385c-11e9-96db-e11d80105f7d.png">
 
 ## 技术栈
 
