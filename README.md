@@ -1,3 +1,14 @@
+![image](./img/timg.jpg)
+<br>
+
+## 前言
+
+本人平时学习及收集内容，欢迎参入一起讨论。
+
+## 关于作者
+
+暂时欠着
+
 ## 移动端音乐WebApp
 
 参考资料:[慕课网](http://coding.imooc.com/class/107.html)
@@ -41,3 +52,11 @@
 接着返回上一级目录，运行以下命令
 
 ```npm run dev```
+## 联系作者
+
+<div align="center">
+    <p>
+        在颠覆世界的同时，也要好好关照自己。
+    </p>
+    <img src="./img/contact.png" />
+</div>
